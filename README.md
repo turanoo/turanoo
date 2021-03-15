@@ -20,7 +20,7 @@ On a more personal level, I'm an avid football (soccer) fan, and I love watching
 
 
 
-#### Engineering Philosophies
+#### Problem Solving Methodology
 
 - **Understand the Problem:** It's easy to get lost in the details of a problem or the choice of technology or the approach but the most important thing when solving problems is     understanding the problem as completely as possible. When I'm working on an assignment, the majority of my time is spent analyzing and understanding the problem.
 - **Plan Your Solution:**  Once a problem is crystal clear, I move on to planning my solution. I take as much time to ensure I have accounted for all variables and factors. I       like drawing out my solutions and discussing it with my teammates before I move on to implementation. 
