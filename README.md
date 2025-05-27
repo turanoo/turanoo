@@ -3,11 +3,7 @@
 ### My name is Turan and I am a software engineer ⚡
 
 
-I'm a passionate Full Stack Developer with 3 years of experience working on web technologies and developing optimized end-user applications. Currently, I'm working at Deloitte Consulting as a Software/Solutions Engineer where I help clients in commercial and public sector design, develop and optimize applications to support their needs. 
-
-I'm particularly focused and interested in developing insightful and data driven web-applications. I am an advocate for agile methodology and have used it extensively in my projects.
-
-On a more personal level, I'm an avid football (soccer) fan, and I love watching Formula 1 races. 
+I'm a Backend Engineer with 5 years of experience working on web technologies and developing optimized end-user applications
 
 #### Find me on
 
