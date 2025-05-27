@@ -8,7 +8,6 @@ I'm a Backend Engineer with 5 years of experience working on web technologies an
 #### Find me on
 
 - [LinkedIn](https://www.linkedin.com/in/turannaimey/)
-- [My Website](https://turannaimey.com/)
 
 #### Languages & Technologies
 
